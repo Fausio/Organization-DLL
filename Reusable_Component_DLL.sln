@@ -3,7 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29926.136
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Reusable_Component_DLL", "Reusable_Component_DLL\Reusable_Component_DLL.csproj", "{9F3FB550-CE35-46FE-92E6-6662EA987839}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Reusable_Component_DLL", "Reusable_Component_DLL\Reusable_Component_DLL.csproj", "{9F3FB550-CE35-46FE-92E6-6662EA987839}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OrganizationConsoleUI", "OrganizationConsoleUI\OrganizationConsoleUI.csproj", "{D950AD86-91DB-47F5-8419-76F1C91B0BD9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrgStanderdLibrary", "OrgStanderdLibrary\OrgStanderdLibrary.csproj", "{641E2189-054D-4933-AAD2-EB7318C57379}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrganizationWinFormUI", "OrganizationWinFormUI\OrganizationWinFormUI.csproj", "{29C13BA4-BA62-4D3B-80E5-87131C62C746}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +21,18 @@ Global
 		{9F3FB550-CE35-46FE-92E6-6662EA987839}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9F3FB550-CE35-46FE-92E6-6662EA987839}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9F3FB550-CE35-46FE-92E6-6662EA987839}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D950AD86-91DB-47F5-8419-76F1C91B0BD9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D950AD86-91DB-47F5-8419-76F1C91B0BD9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D950AD86-91DB-47F5-8419-76F1C91B0BD9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D950AD86-91DB-47F5-8419-76F1C91B0BD9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{641E2189-054D-4933-AAD2-EB7318C57379}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{641E2189-054D-4933-AAD2-EB7318C57379}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{641E2189-054D-4933-AAD2-EB7318C57379}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{641E2189-054D-4933-AAD2-EB7318C57379}.Release|Any CPU.Build.0 = Release|Any CPU
+		{29C13BA4-BA62-4D3B-80E5-87131C62C746}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29C13BA4-BA62-4D3B-80E5-87131C62C746}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29C13BA4-BA62-4D3B-80E5-87131C62C746}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29C13BA4-BA62-4D3B-80E5-87131C62C746}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
