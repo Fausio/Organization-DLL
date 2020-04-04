@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\OrgStanderdLibrary\OrgStanderdLibrary.csproj" />
+    <ProjectReference Include="..\Reusable_Component_DLL\Reusable_Component_DLL.csproj" />
+  </ItemGroup>
+
+</Project>
